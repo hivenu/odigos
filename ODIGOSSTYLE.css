@@ -1,0 +1,23 @@
+.bg{
+    background-image: url("assets/COVER-PAGE-e1689589337273.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.bg h2{
+    font-size: 50px;
+    font-weight: 500;
+}
+marquee{
+    font-size: large;
+    font-weight:light;
+    color: blue;
+}
+.fbg{
+    background-image: url("assets/fbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.card  h1{
+    font-size: 100px;
+}
+
